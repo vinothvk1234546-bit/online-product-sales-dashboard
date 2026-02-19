@@ -6,26 +6,39 @@ Interactive Online Product Sales Dashboard using Power BI
 This project analyzes online product sales performance using Power BI.
 The dashboard provides business insights into revenue, profit, product performance, and customer trends.
 
-**🛠 Tools Used**
+🛠 Tools Used
+
 Power BI
+
 DAX
+
 Excel / SQL
 
-**Data Cleaning & Transformation**
+Data Cleaning & Transformation
+
 📈 Key Features
+
 KPI cards (Revenue, Profit, Orders)
+
 Drill-through analysis
 
-**Dynamic filtering**
-Bookmark navigation
-Row-Level Security
-page navigation
-Drill through
+Dynamic filtering
 
-**Custom DAX Measures**
+Bookmark navigation
+
+Row-Level Security
+
+Custom DAX Measures
+
 📊 Business Insights
 
 Identified top-performing products
+
+Analyzed regional sales performance
+
+Profit margin trends
+
+Customer purchasing behavior
 
 Analyzed regional sales performance
 
